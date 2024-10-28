@@ -1,1 +1,1 @@
-Hosted Link = https://college-website-tau-one.vercel.app/
+Hosted Link = https://university-website-tau-one.vercel.app/
